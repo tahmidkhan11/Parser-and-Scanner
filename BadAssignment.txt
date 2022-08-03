@@ -1,0 +1,2 @@
+y = 7
+/* this should throw an error */
